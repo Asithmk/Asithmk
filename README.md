@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Asith 👋
 
-<!--
-**Asithmk/Asithmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Engineering student at the **Technical University of Munich (TUM)**, based in Heilbronn, Germany.
 
-Here are some ideas to get you started:
+I'm interested in building practical technology solutions, particularly in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cloud Computing & IT Infrastructure
+- Data Engineering & Business Intelligence
+- Python, Java & SQL
+- Databases and Data Processing
+- Artificial Intelligence
+
+## Technical Skills
+
+- **Programming:** Python, Java
+- **Databases:** MySQL, SQL
+- **Data Processing:** Pandas, Excel, CSV
+- **Cloud:** Huawei Cloud
+- **Other:** Networking, Troubleshooting, JSON
+
+## Featured Projects
+
+**Excel – Python – SQL Data Processing Pipeline**
+
+A student data ETL pipeline using Python, Pandas and MySQL.
+
+**Maze Runner – Java**
+
+A 2D game developed using Java and LibGDX, featuring custom game logic and JSON parsing.
+
+## Education
+
+B.Sc. Information Engineering  
+Technical University of Munich (TUM)
+
+## Connect with me
+
+- LinkedIn: www.linkedin.com/in/asithgayasha
+- GitHub: [@Asithmk](https://github.com/Asithmk)
