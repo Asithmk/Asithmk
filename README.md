@@ -1,4 +1,4 @@
-# Hi, I'm Asith 👋
+# Hi, I'm Asith Mallika Kankanamalage 👋
 
 Information Engineering student at the **Technical University of Munich (TUM)**, based in Heilbronn, Germany.
 
